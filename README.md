@@ -1,4 +1,4 @@
-# Js-Assignment-GroupX10
+# Js-Assignment-Group10
 # TechTrend Store - JavaScript E-Commerce Website
 
 ## Group Members
